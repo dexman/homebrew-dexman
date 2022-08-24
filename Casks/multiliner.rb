@@ -4,7 +4,7 @@ cask "multiliner" do
 
   url "https://github.com/aheze/Multiliner/raw/main/Multiliner.zip"
   name "Multiliner"
-  desc " An Xcode source extension to expand lengthy lines. "
+  desc "An Xcode source extension to expand lengthy lines."
   homepage "https://github.com/aheze/Multiliner"
 
   app "Multiliner.app"
