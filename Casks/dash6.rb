@@ -1,6 +1,6 @@
 cask "dash6" do
   version "6.4.0"
-  sha256 "cd98b4496bfa82ff2cd4c98f7d8a35eb83b909b7da605eb291d12a0c162c24a8"
+  sha256 "165b17939f1501bfe6fe6e363a7246fbc276b51d1769f80e41828551d1cbd8ed"
 
   url "https://sanfrancisco.kapeli.com/downloads/v6/Dash.zip"
   name "Dash 6"
